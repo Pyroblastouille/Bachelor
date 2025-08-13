@@ -1,0 +1,721 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Illustration rdf:about="https://commons.wikimedia.org/wiki/File:Electromagnetism.svg">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stannered</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_25"/>
+        <dc:title>Illustration of a magnetic field around a wire</dc:title>
+        <dc:date>6 February 2007</dc:date>
+        <z:shortTitle>Illustration of a magnetic field</z:shortTitle>
+        <z:archive>Image:Electromagnetism.png</z:archive>
+        <z:libraryCatalog>Wikimedia Commons</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Electromagnetism.svg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 00:03:40</dcterms:dateSubmitted>
+        <dc:rights>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue</dc:rights>
+    </bib:Illustration>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/FileElectromagnetism.html"/>
+        <dc:title>Wikimedia Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Electromagnetism.svg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 00:03:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://openstax.org/details/books/university-physics-volume-2">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>OpenStax</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ling</foaf:surname>
+                        <foaf:givenName>Ling, Samuel J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moebs</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sanny</foaf:surname>
+                        <foaf:givenName>Jeff</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_27"/>
+        <dc:title>University Physics Volume 2</dc:title>
+        <dcterms:abstract>Nous avons vu que la masse produit un champ gravitationnel et interagit &amp;eacute;galement avec ce champ. La charge produit un champ &amp;eacute;lectrique et interagit &amp;eacute;galement avec ce champ. …</dcterms:abstract>
+        <dc:date>2025 01 27</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>12.2</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openstax.org/details/books/university-physics-volume-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 13:54:37</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/12.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://query.libretexts.org/Francais/Physique_universitaire_II_-_Thermodynamique%2C_%C3%A9lectricit%C3%A9_et_magn%C3%A9tisme_(OpenStax)/12%3A_Sources_de_champs_magn%C3%A9tiques/12.02%3A_La_loi_Biot-Savart</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 13:54:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://study.com/skill/learn/using-the-principle-of-superposition-to-determine-the-magnitude-of-a-magnetic-field-at-some-point-near-several-long-straight-current-carrying-wires-explanation.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>study.com</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walker</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmad</foaf:surname>
+                        <foaf:givenName>Shorouq</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_33"/>
+        <dc:title>Using the Principle of Superposition to Determine the Magnitude of a Magnetic Field at Some Point Near Several Long Straight Current-Carrying Wires | Physics</dc:title>
+        <dcterms:abstract>Learn how to use the principle of superposition to determine the magnitude of a magnetic field at some point near several long straight current-carrying wires and see examples that walk through sample problems step-by-step for you to improve your physics knowledge and skills.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://study.com/skill/learn/using-the-principle-of-superposition-to-determine-the-magnitude-of-a-magnetic-field-at-some-point-near-several-long-straight-current-carrying-wires-explanation.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 19:35:29</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/using-the-principle-of-superposition-to-determine-the-magnitude-of-a-magnetic-field-at-some-poi.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://study.com/skill/learn/using-the-principle-of-superposition-to-determine-the-magnitude-of-a-magnetic-field-at-some-point-near-several-long-straight-current-carrying-wires-explanation.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 19:35:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://githepia.hesge.ch/arthur.abelkalo/chessgame">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>GitLab</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ABELKALON</foaf:surname>
+                        <foaf:givenName>Arthur</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>arthur.abelkalo / ChessGame · GitLab</dc:title>
+        <dcterms:abstract>GitLab Community Edition</dcterms:abstract>
+        <dc:date>2023-08-22</dc:date>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://githepia.hesge.ch/arthur.abelkalo/chessgame</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 21:02:56</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/chessgame.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://githepia.hesge.ch/arthur.abelkalo/chessgame</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 21:03:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/ThePurpleOne/Magtrix">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>STIRNEMANN</foaf:surname>
+                        <foaf:givenName>Jonas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>ThePurpleOne/Magtrix</dc:title>
+        <dcterms:abstract>Magnetic Tic Tac Toe</dcterms:abstract>
+        <dc:date>2024-10-24T18:45:59Z</dc:date>
+        <z:libraryCatalog>GitHub</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/ThePurpleOne/Magtrix</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 21:03:18</dcterms:dateSubmitted>
+        <dc:description>original-date: 2024-06-13T11:10:33Z</dc:description>
+        <z:programmingLanguage>Jupyter Notebook</z:programmingLanguage>
+    </bib:Data>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=uL6e3co4Qqc">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>SRI</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>Magnetically Actuated Micro-Robots for Advanced Manipulation Applications</dc:title>
+        <dc:date>2014-04-09</dc:date>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=uL6e3co4Qqc</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 22:44:39</dcterms:dateSubmitted>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=-7VYErogUvg">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Miniatur Wunderland</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>MONACO GRAND PRIX: Die Entstehung unserer Formel 1 | Gerrits Tagebuch #95 | Miniatur Wunderland</dc:title>
+        <dc:date>2024-05-26</dc:date>
+        <z:shortTitle>MONACO GRAND PRIX</z:shortTitle>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=-7VYErogUvg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-21 23:32:40</dcterms:dateSubmitted>
+    </bib:Recording>
+    <bib:Document rdf:about="https://www.supermagnete.ch/fre/Utilisations-d-aimants/Construire-un-Halbach-Array">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Supermagnet.ch</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bos</foaf:surname>
+                        <foaf:givenName>Oscar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haag</foaf:surname>
+                        <foaf:givenName>Den</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>Construire un Halbach-Array avec des aimants</dc:title>
+        <dc:date>07.04.2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.supermagnete.ch/fre/Utilisations-d-aimants/Construire-un-Halbach-Array</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 11:56:02</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/Construire-un-Halbach-Array.html"/>
+        <dc:title>Construire un Halbach-Array avec des aimants</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.supermagnete.ch/fre/Utilisations-d-aimants/Construire-un-Halbach-Array</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 11:56:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.doubtnut.com/qna/12011604#og">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Doubtnut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Doubtnut</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_48"/>
+        <dc:title>Distinguish between Biot Savart's law and Ampere's circuital law.</dc:title>
+        <dcterms:abstract>&lt;p&gt;To distinguish between Biot-Savart's Law and Ampere's Circuital Law, we can break down their definitions, applications, and characteristics step by step.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 1: Definition&lt;/strong&gt;
+- &lt;strong&gt;Biot-Savart's Law&lt;/strong&gt;: This law states that the magnetic field \( \mathbf{B} \) produced at a point in space by a small segment of current-carrying wire is directly proportional to the current \( I \), the length of the wire segment \( d\mathbf{l} \), and the sine of the angle \( \theta \) between the wire segment and the line connecting the wire segment to the point, and inversely proportional to the square of the distance \( r \) from the wire segment to the point. Mathematically, it is expressed as:
+  \(
+  d\mathbf{B} = \frac{\mu0}{4\pi} \frac{I d\mathbf{l} \times \hat{r}}{r^2}
+  \)&lt;/p&gt;&lt;p&gt;- &lt;strong&gt;Ampere's Circuital Law&lt;/strong&gt;: This law relates the integrated magnetic field around a closed loop to the electric current passing through that loop. It states that the line integral of the magnetic field \( \mathbf{B} \) around a closed path is equal to the permeability of free space \( \mu0 \) times the total current \( I \) enclosed by the path. Mathematically, it is expressed as:
+  \(
+  \oint \mathbf{B} \cdot d\mathbf{l} = \mu0 I{\text{enc}}
+  \)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 2: Application&lt;/strong&gt;
+- &lt;strong&gt;Biot-Savart's Law&lt;/strong&gt;: This law can be applied to any arbitrary shape of current-carrying conductor, whether it is symmetric or asymmetric. It is particularly useful for calculating the magnetic field due to complex geometries.&lt;/p&gt;&lt;p&gt;- &lt;strong&gt;Ampere's Circuital Law&lt;/strong&gt;: This law is primarily applicable to symmetric situations, such as straight wires, solenoids, and toroids, where the symmetry allows for simplification in calculations. It is not generally applicable to asymmetric configurations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 3: Nature of the Laws&lt;/strong&gt;
+- &lt;strong&gt;Biot-Savart's Law&lt;/strong&gt;: It provides a way to calculate the magnetic field produced by a small segment of current, integrating over the entire current distribution. It is based on the principle of superposition.&lt;/p&gt;&lt;p&gt;- &lt;strong&gt;Ampere's Circuital Law&lt;/strong&gt;: It provides a relationship between the magnetic field and the current enclosed by a loop, emphasizing the connection between current and magnetic field in a more global sense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 4: Mathematical Formulation&lt;/strong&gt;
+- &lt;strong&gt;Biot-Savart's Law&lt;/strong&gt;: Involves vector cross products and requires integration over the current distribution to find the total magnetic field.&lt;/p&gt;&lt;p&gt;- &lt;strong&gt;Ampere's Circuital Law&lt;/strong&gt;: Involves a line integral and can often yield results more directly for symmetric configurations without needing to consider individual segments of current.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;
+In summary, Biot-Savart's Law is versatile and can be applied to any current configuration, while Ampere's Circuital Law is limited to symmetric cases but provides a more straightforward approach for calculating magnetic fields in those scenarios.&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.doubtnut.com/qna/12011604#og</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 13:15:18</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/48/12011604.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.doubtnut.com/qna/12011604</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 13:15:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Tesla_(unit%C3%A9)&amp;oldid=223112305">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipédia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>81.57.186.78</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>D</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Urhixidur</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_50"/>
+        <dc:title>Tesla (unité)</dc:title>
+        <dcterms:abstract>Le tesla (symbole : T), nommé en l'honneur du physicien serbe Nikola Tesla, est une unité de mesure des champs magnétiques. C'est une unité dérivée d'induction magnétique (appelé parfois densité de flux magnétique ou champ magnétique) du Système international d'unités (SI).</dcterms:abstract>
+        <dc:date>2025-02-17T22:12:22Z</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/w/index.php?title=Tesla_(unit%C3%A9)&amp;oldid=223112305</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 13:23:03</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 223112305</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/50/Tesla_(unité).html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/wiki/Tesla_(unit%C3%A9)</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 13:23:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Miniatur-Wunderland&amp;oldid=213693857">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipédia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bevernage</foaf:surname>
+                        <foaf:givenName>Frederic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Henry3bis</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wecker</foaf:surname>
+                        <foaf:givenName>Gare</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_54"/>
+        <dc:title>Miniatur-Wunderland</dc:title>
+        <dcterms:abstract>Le Miniatur-Wunderland (en français : « monde merveilleux miniature ») ou MIWULA est un réseau de train électrique miniature gigantesque.
+Cette attraction située à Hambourg (Allemagne) est la plus grande de son genre dans le monde ; elle a été construite par les frères jumeaux Gerrit et Frederik Braun.</dcterms:abstract>
+        <dc:date>2024-03-26T13:31:13Z</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/w/index.php?title=Miniatur-Wunderland&amp;oldid=213693857</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 14:15:39</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 213693857</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/54/Miniatur-Wunderland.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/wiki/Miniatur-Wunderland</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-22 14:15:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.miniatur-wunderland.com/exchange/about/founders/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Miniatur Wunderland Hamburg</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Miniatur Wunderland</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_57"/>
+        <dc:title>Die Gründer der Anlage</dc:title>
+        <dcterms:abstract>Ein kurzer Steckbrief über jeden der drei Gründer des Miniatur Wunderlandes.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.miniatur-wunderland.com/exchange/about/founders/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-23 17:43:04</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/57/founders.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.miniatur-wunderland.com/exchange/about/founders/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-23 17:43:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Magn%C3%A9tostatique&amp;oldid=220147766">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipédia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonet</foaf:surname>
+                        <foaf:givenName>Edgar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Ggal</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Daharein</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_59"/>
+        <dc:title>Magnétostatique</dc:title>
+        <dcterms:abstract>La magnétostatique est l’étude du magnétisme dans les situations où le champ magnétique est indépendant du temps.
+Plus spécifiquement, la magnétostatique s’attache à calculer les champs magnétiques lorsque les sources de ces champs sont connues. Il existe deux sources possibles pour les champs magnétiques :
+
+d’une part les courants électriques ;
+d’autre part la matière aimantée.</dcterms:abstract>
+        <dc:date>2024-11-09T13:36:58Z</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/w/index.php?title=Magn%C3%A9tostatique&amp;oldid=220147766</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-23 17:43:07</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 220147766</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_59">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/59/Magnétostatique.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/wiki/Magn%C3%A9tostatique</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-23 17:43:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Champ_magn%C3%A9tique&amp;oldid=223059871">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipédia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Sharayanan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>r</foaf:surname>
+                        <foaf:givenName>Alain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delbecq</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <dc:title>Champ magnétique</dc:title>
+        <dcterms:abstract>En physique, dans le domaine de l'électromagnétisme, le champ magnétique est une grandeur ayant le caractère d'un champ vectoriel, c'est-à-dire caractérisée par la donnée d'une norme, d’une direction et d’un sens, définie en tout point de l'espace et permettant de modéliser et quantifier les effets magnétiques du courant électrique ou des matériaux magnétiques comme les aimants permanents.
+La présence du champ magnétique se traduit par l'existence d'une force agissant sur les charges électriques en mouvement (dite force de Lorentz) et par divers effets affectant certains matériaux (diamagnétisme, paramagnétisme, ferromagnétisme, etc.). La grandeur qui détermine l'interaction entre un matériau et un champ magnétique est la susceptibilité magnétique.
+Les différentes sources de champ magnétique sont les aimants permanents, le courant électrique (c'est-à-dire le déplacement d'ensemble de charges électriques), ainsi que la variation temporelle d'un champ électrique (par induction électromagnétique).
+Sauf exception, cet article traite du cas du régime statique ou indépendant du temps, pour lequel le champ magnétique existe indépendamment de tout champ électrique, soit en pratique celui créé par les aimants ou les courants électriques permanents. Toutefois, en régime variable, c'est-à-dire pour des courants électriques non permanents, ou des champs électriques variables, le champ magnétique créé, lui-même variable, est la source d'un champ électrique, et donc ne peut être considéré de façon indépendante (cf. champ électromagnétique).</dcterms:abstract>
+        <dc:date>2025-02-16T10:05:28Z</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/w/index.php?title=Champ_magn%C3%A9tique&amp;oldid=223059871</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-23 17:43:13</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 223059871</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/60/Champ_magnétique.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.wikipedia.org/wiki/Champ_magn%C3%A9tique</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-23 17:43:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_67">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.1109/MED.2015.7158759</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>San-Millan</foaf:surname>
+                        <foaf:givenName>Andres</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Design of a teleoperated wall climbing robot for oil tank inspection</dc:title>
+        <dc:date>2015-07</dc:date>
+        <bib:pages>255-261</bib:pages>
+    </bib:Article>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=bl5jziS66Zk">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Miniatur Wunderland</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>Formel-1-Rennstrecke in Monaco | Gerrits Tagebuch #45 | Miniatur Wunderland</dc:title>
+        <dcterms:abstract>English subtitles available.
+
+In der 45. Folge wird Gerrits persönlicher Traum von einer Formel-1-Rennstrecke thematisiert. Nach dem Bau des Italien-Abschnitts wird Monaco errichtet. Der Charme des Stadtsta</dcterms:abstract>
+        <dc:date>2015-01-09</dc:date>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=bl5jziS66Zk</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-30 08:12:07</dcterms:dateSubmitted>
+        <z:runningTime>12:05</z:runningTime>
+    </bib:Recording>
+    <bib:Recording rdf:about="#item_69">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Miniatur Wunderland</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>MONACO GRAND PRIX: Die Entstehung unserer Formel 1 | Gerrits Tagebuch #95 | Miniatur Wunderland</dc:title>
+        <dcterms:abstract>11 Jahre ist es her, dass die Idee einer funktionierenden Miniatur-Formel-1-Strecke geboren wurde. Mit Bau der ersten Prototypen und Gerrits Anfängen in der Programmierung dachte noch keiner daran, dass dieses Projekt jemals zum Erfolg geführt werden könne – doch Gerrit und sein Team gaben nicht auf. Auch ihr, die Community, habt immer an dieses Wunderwerk der Technik geglaubt und immer wieder Mut und Ideen zugesprochen! Und so seid auch ihr mitverantwortlich, dass vor fast genau einem Monat die Fürstenfamilie von Monaco hier im Miniatur Wunderla</dcterms:abstract>
+        <dc:date>2024-05-26</dc:date>
+        <z:shortTitle>MONACO GRAND PRIX</z:shortTitle>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=-7VYErogUvg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-30 08:14:29</dcterms:dateSubmitted>
+        <z:runningTime>52:16</z:runningTime>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=D6jwZYrvSv4">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Miniatur Wunderland</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>Formel 1 Prototyp: 1. Highspeedrunde MONACO GRAND PRIX | Gerrits Tagebuch #71 | Miniatur Wunderland</dc:title>
+        <dcterms:abstract>In der 71. Folge von Gerrits Tagebuch drehen die Formel-1-Autos mit Highspeed die ersten Runden auf der Teststrecke. 
+Für die 21 Meter lange Formel-1-Strecke, mit komplexen Leiterbahnen, lötet bzw. bestückt Sascha in über 16 Stunden einen Prototyp einer Steuerplatine in filigraner Handarbeit. 
+Außerdem zeichnet Jens das erste F1-Auto am Computer in 3D und präsentiert uns die ersten Druckteile.</dcterms:abstract>
+        <dc:date>2020-02-02</dc:date>
+        <z:shortTitle>Formel 1 Prototyp</z:shortTitle>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=D6jwZYrvSv4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-30 10:34:30</dcterms:dateSubmitted>
+        <z:runningTime>11:15</z:runningTime>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=3ujaGUFfgC0">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Miniatur Wunderland</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>Formel 1: Fortschritte in der Software | Gerrits Tagebuch #82 | Miniatur Wunderland</dc:title>
+        <dcterms:abstract>Seit 2014 arbeiten Gerrit und sein Team an der Entwicklung eines realistisches Formel-1-Rennen für unseren Monaco-Abschnitt. Auf der 21-Meter Strecke soll es Überholmanöver, Ziehharmonika-Effekt in Kurven, eine Boxengasse und immer neue Zieleinläufen geben. In der heutigen Folge zeigt uns Gerrit, welche Software-Fortschritte er in über unzähligen Programmierstunden gemacht hat. Unter anderem können die Fahrzeuge jetzt sauber überholen, das Saftycar-Auto fährt und Startaufstellungen können gefahren werden.</dcterms:abstract>
+        <dc:date>2022-03-13</dc:date>
+        <z:shortTitle>Formel 1</z:shortTitle>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=3ujaGUFfgC0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-30 10:41:09</dcterms:dateSubmitted>
+        <z:runningTime>13:14</z:runningTime>
+    </bib:Recording>
+</rdf:RDF>
