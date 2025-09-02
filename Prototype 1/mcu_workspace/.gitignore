@@ -2,3 +2,4 @@
 !.gitignore
 !LPC865_Project/source/*
 !lpcxpresso860max_lpc_gpio_led_output/source/*
+!mcu_workspace.zip
