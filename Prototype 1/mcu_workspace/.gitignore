@@ -1,4 +1,4 @@
 *
 !.gitignore
-!LPC865_Project
-!lpcxpresso860max_lpc_gpio_led_output
+!LPC865_Project/source/*
+!lpcxpresso860max_lpc_gpio_led_output/source/*
