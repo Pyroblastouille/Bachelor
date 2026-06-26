@@ -1,15 +1,2 @@
-# Rapport préliminaire
-- Table des matières
-- Intro
-  - Contexte
-  - Problématique
-  - Objectifs
-  - Résumé du travail
-  - Annonce de la structure du document
-- Schéma d'architecture globale (et pour poster, diapo et pres)
-- Un chapitre sur demande de votre prof
-
-# Défense
-- Présentation : 20 minutes
-- Démo : 10 minutes
-- Q&A : 10 minutes
+# Conception d'un plateau de jeu magnétique automatisé
+Voir [Rapport/ISC_EMB_resume_diplome_Mariot_Bechevet_2025.pdf](Rapport/ISC_EMB_resume_diplome_Mariot_Bechevet_2025.pdf)
